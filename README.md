@@ -29,5 +29,11 @@
 
 ---
 
-## Android Attacker Vector - [[hackerscrolls](https://twitter.com/hackerscrolls)]
+## Android Attacker Vectors - [[hackerscrolls](https://twitter.com/hackerscrolls)]
 ![x3](https://github.com/imran-parray/Mind-Maps/blob/master/Android%20Attacker%20Vector%20-%20hackerscroll/Android%20Attacker%20Vector.png)
+
+
+---
+
+## Testing oAuth for Vulnerabilities - [[hackerscrolls](https://twitter.com/hackerscrolls)]
+![x3](https://github.com/imran-parray/Mind-Maps/blob/master/Testing%20OAuth%20-%20hackerscroll/Testing%20oAuth.jpeg)
