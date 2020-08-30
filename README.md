@@ -29,6 +29,13 @@
 
 ---
 
+## Testing 2FA [2] - [[hackerscrolls](https://twitter.com/hackerscrolls)]
+![x2](https://github.com/imran-parray/Mind-Maps/blob/master/Testing%202FA%20(2)%20-%20hackerscroll/Testing%202FA.jpeg)
+
+
+
+---
+
 ## Android Attacker Vectors - [[hackerscrolls](https://twitter.com/hackerscrolls)]
 ![x3](https://github.com/imran-parray/Mind-Maps/blob/master/Android%20Attacker%20Vector%20-%20hackerscroll/Android%20Attacker%20Vector.png)
 
