@@ -6,19 +6,19 @@
 
 ---
 
-## Fiding Server side issues - [Imran parray]
+## Fiding Server side issues - [[Imran parray](https://twitter.com/imranparray101)]
 ![xx](https://github.com/imran-parray/Mind-Maps/blob/master/Finding%20Server%20Side%20Issues%20-%20imran%20parray/Finding%20Server%20Side%20Issues.jpg)
 
 ---
 
 
-## Javascript Recon
+## Javascript Recon - [[Imran parray](https://twitter.com/imranparray101)]
 ![xx](https://github.com/imran-parray/Mind-Maps/blob/master/Js%20Recon%20-%20Imran%20Parray/Javascript-file-methodology.png)
 
 ---
 
 
-## My Recon - [Imran parray]
+## My Recon - [[Imran parray](https://twitter.com/imranparray101)]
 ![xx](https://github.com/imran-parray/Mind-Maps/blob/master/Recon%20-%20Imran%20parray/My-recon.png)
 
 ---
