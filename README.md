@@ -1,7 +1,7 @@
 # Mind-Maps
 
 
-## Bug Hunters Methodology - [Jhaddix]
+## Bug Hunters Methodology - [[Jhaddix](https://twitter.com/jhaddix)]
 ![xx](https://github.com/imran-parray/Mind-Maps/blob/master/Bug%20Hunters%20Methodology%20v4/MindMap.png)
 
 ---
@@ -23,5 +23,5 @@
 
 ---
 
-## Testing 2FA - [hackerscrolls](https://twitter.com/hackerscrolls)
+## Testing 2FA - [[hackerscrolls](https://twitter.com/hackerscrolls)]
 ![x2](https://github.com/imran-parray/Mind-Maps/blob/master/Testing%202FA-hackerscrolls/Testing%202FA.jpeg)
