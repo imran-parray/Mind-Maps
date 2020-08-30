@@ -1,0 +1,1298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>Target</title>
+    </head>
+    <body>
+        <outline text="Target">
+            <outline text="Infrastructure">
+                <outline text="Web">
+                    <outline text="Top Level Domain">
+                        <outline text="Target.com">
+                            <outline text="List of IPs"></outline>
+                        </outline>
+                    </outline>
+                    <outline text="Recon and Mapping">
+                        <outline text="WordLists">
+                            <outline text="Custom Word lists">
+                                <outline text="Cewl">
+                                    <outline text="$ cewl -m 4 -w dict.txt https://site.url"></outline>
+                                </outline>
+                            </outline>
+                            <outline text="JHaddix's all.txt">
+                                <outline text="https://gist.github.com/jhaddix/f64c97d0863a78454e44c2f7119c2a6a"></outline>
+                            </outline>
+                            <outline text="SecLists'
+raft-large-words.txt">
+                                <outline text="https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/raft-large-words.txt"></outline>
+                            </outline>
+                        </outline>
+                        <outline text="List Subdomains">
+                            <outline text="Check for Wildcards first - to
+eliminate false positives"></outline>
+                            <outline text="knock">
+                                <outline text="https://github.com/guelfoweb/knock"></outline>
+                            </outline>
+                            <outline text="Sublist3r">
+                                <outline text="https://github.com/aboul3la/Sublist3r"></outline>
+                            </outline>
+                            <outline text="LazyRecon" _note="LazyRecon utilizes the following tools:  Subdomain Enumeration: Amass Subfinder Subdomain Takeover: subjack CORS Configuration: CORScanner IP Discovery: Massdns Port Scanning: Masscan Nmap Nmap Bootstrap Stylesheet Visual Recon: Aquatone Content Discovery: Dirsearch Wordlists: JHaddix's all.txt SecLists' raft-large-words.txt">
+                                <outline text="https://github.com/capt-meelo/LazyRecon"></outline>
+                            </outline>
+                            <outline text="subfinder">
+                                <outline text="https://github.com/ice3man543/subfinder"></outline>
+                            </outline>
+                            <outline text="amass">
+                                <outline text="https://github.com/OWASP/Amass"></outline>
+                            </outline>
+                            <outline text="ReconDog">
+                                <outline text="https://github.com/s0md3v/ReconDog"></outline>
+                            </outline>
+                            <outline text="subbrute">
+                                <outline text="https://github.com/TheRook/subbrute"></outline>
+                            </outline>
+                            <outline text="Cloudflare
+Enumeration
+Tool">
+                                <outline text="https://github.com/mandatoryprogrammer/cloudflare_enum"></outline>
+                            </outline>
+                            <outline text="dnsmap">
+                                <outline text="https://github.com/makefu/dnsmap"></outline>
+                            </outline>
+                            <outline text="altdns">
+                                <outline text="https://github.com/infosec-au/altdns"></outline>
+                            </outline>
+                            <outline text="dnsrecon">
+                                <outline text="https://github.com/darkoperator/dnsrecon"></outline>
+                            </outline>
+                            <outline text="dnssearch">
+                                <outline text="https://github.com/evilsocket/dnssearch"></outline>
+                            </outline>
+                            <outline text="Fierce">
+                                <outline text="https://github.com/mschwager/fierce"></outline>
+                            </outline>
+                            <outline text="second-order">
+                                <outline text="https://github.com/mhmdiaa/second-order"></outline>
+                            </outline>
+                            <outline text="assetfinder">
+                                <outline text="https://github.com/tomnomnom/assetfinder"></outline>
+                            </outline>
+                            <outline text="DNSDumpster">
+                                <outline text="https://dnsdumpster.com/"></outline>
+                            </outline>
+                            <outline text="Dig - Zone transfer">
+                                <outline text="dig [target URL] -r axfr"></outline>
+                            </outline>
+                            <outline text="Massdns"></outline>
+                            <outline text="Nmap"></outline>
+                            <outline text="GoogleDorks"></outline>
+                            <outline text="Shodan.io">
+                                <outline text="Search by Org:"></outline>
+                            </outline>
+                        </outline>
+                        <outline text="Other domains">
+                            <outline text="Reverse Whois">
+                                <outline text="viewdns info">
+                                    <outline text="https://viewdns.info/reversewhois/"></outline>
+                                </outline>
+                                <outline text="reverse.report">
+                                    <outline text="https://reverse.report/"></outline>
+                                </outline>
+                            </outline>
+                            <outline text="Nerdydata With
+Analytics UA">
+                                <outline text="https://nerdydata.com/reports/new"></outline>
+                            </outline>
+                            <outline text="Reverse IP Domain">
+                                <outline text="yougetsignal.com">
+                                    <outline text="https://www.yougetsignal.com/tools/web-sites-on-web-server/"></outline>
+                                </outline>
+                                <outline text="Nmap reverse DNS"></outline>
+                            </outline>
+                            <outline text="(Sub)Domain running on
+same nameserver">
+                                <outline text="dns.coffee/nameservers"></outline>
+                            </outline>
+                            <outline text="Domains
+associated with
+target">
+                                <outline text="DomLink">
+                                    <outline text="https://github.com/vysecurity/DomLink"></outline>
+                                </outline>
+                            </outline>
+                            <outline text="Expired Domains">
+                                <outline text="Domains Hunter">
+                                    <outline text="https://github.com/threatexpress/domainhunter"></outline>
+                                </outline>
+                            </outline>
+                        </outline>
+                        <outline text="Discover new endpoints">
+                            <outline text="Wayback Machine">
+                                <outline text="https://archive.org/web/"></outline>
+                            </outline>
+                            <outline text="JSParcer">
+                                <outline text="https://github.com/nahamsec/JSParser"></outline>
+                            </outline>
+                            <outline text="cc.py">
+                                <outline text="https://github.com/si9int/cc.py"></outline>
+                            </outline>
+                        </outline>
+                        <outline text="Site Inspection">
+                            <outline text="Visual recon">
+                                <outline text="Aquatone">
+                                    <outline text="https://github.com/michenriksen/aquatone"></outline>
+                                </outline>
+                                <outline text="EyeWitness"></outline>
+                            </outline>
+                            <outline text="Sitemap"></outline>
+                            <outline text="Robots.txt"></outline>
+                            <outline text="Dig - Any"></outline>
+                        </outline>
+                        <outline text="3rd Party">
+                            <outline text="Applications"></outline>
+                            <outline text="CDNs"></outline>
+                            <outline text="Payment Systems"></outline>
+                            <outline text="Webapp Store Fronts"></outline>
+                            <outline text="WAFs"></outline>
+                            <outline text="Scripts">
+                                <outline text="CSS"></outline>
+                                <outline text=".js"></outline>
+                            </outline>
+                            <outline text="Code Repo">
+                                <outline text="GitHub">
+                                    <outline text="Github Dorks">
+                                        <outline text="https://github.com/techgaun/github-dorks"></outline>
+                                    </outline>
+                                    <outline text="Email Finder - Zen">
+                                        <outline text="https://github.com/s0md3v/zen"></outline>
+                                    </outline>
+                                </outline>
+                                <outline text="gitlab"></outline>
+                                <outline text="bitbucket"></outline>
+                                <outline text="Jenkins"></outline>
+                            </outline>
+                        </outline>
+                        <outline text="Cloud
+Enumeration/Brute
+Force">
+                            <outline text="bucket_finder">
+                                <outline text="https://digi.ninja/projects/bucket_finder.php"></outline>
+                            </outline>
+                            <outline text="lazys3">
+                                <outline text="https://github.com/nahamsec/lazys3"></outline>
+                            </outline>
+                            <outline text="teh_s3_bucketeers">
+                                <outline text="https://github.com/tomdev/teh_s3_bucketeers"></outline>
+                            </outline>
+                            <outline text="Sandcastle">
+                                <outline text="https://github.com/0xSearches/sandcastle"></outline>
+                            </outline>
+                            <outline text="CloudScraper">
+                                <outline text="https://github.com/jordanpotti/CloudScraper"></outline>
+                            </outline>
+                            <outline text="Public buckets">
+                                <outline text="https://buckets.grayhatwarfare.com/"></outline>
+                            </outline>
+                            <outline text="Manual search">
+                                <outline text="[Bucket
+Name].s3.amazonaws.com"></outline>
+                            </outline>
+                        </outline>
+                        <outline text="Certificate Search">
+                            <outline text="crt.sh">
+                                <outline text="https://crt.sh/"></outline>
+                            </outline>
+                            <outline text="Facebook Certificate
+Transparency Monitoring">
+                                <outline text="https://developers.facebook.com/tools/ct/"></outline>
+                            </outline>
+                            <outline text="Certspotter API">
+                                <outline text="https://certspotter.com/api/v0/certs?domain="></outline>
+                            </outline>
+                        </outline>
+                        <outline text="Technology Profile">
+                            <outline text="builtwith.com">
+                                <outline text="https://builtwith.com/"></outline>
+                            </outline>
+                            <outline text="wappalyzer.com">
+                                <outline text="https://www.wappalyzer.com/"></outline>
+                            </outline>
+                            <outline text="w3techs.com">
+                                <outline text="https://w3techs.com/sites"></outline>
+                            </outline>
+                            <outline text="toolbar.netcraft.com">
+                                <outline text="https://sitereport.netcraft.com/"></outline>
+                            </outline>
+                            <outline text="whatcms.org">
+                                <outline text="https://whatcms.org/"></outline>
+                            </outline>
+                        </outline>
+                        <outline text="Publicly Disclosed
+Vulnerabilities or Leaks">
+                            <outline text="Open Bug Bounty">
+                                <outline text="https://www.openbugbounty.org/"></outline>
+                            </outline>
+                            <outline text="hackerOne public
+disclosures">
+                                <outline text="https://hackerone.com/hacktivity"></outline>
+                            </outline>
+                            <outline text="Google"></outline>
+                            <outline text="Pastebin"></outline>
+                        </outline>
+                        <outline text="Brute-force Files
+and Directories">
+                            <outline text="gobuster">
+                                <outline text="https://github.com/OJ/gobuster"></outline>
+                            </outline>
+                            <outline text="dirsearch">
+                                <outline text="https://github.com/maurosoria/dirsearch"></outline>
+                            </outline>
+                            <outline text="DirBuster">
+                                <outline text="https://tools.kali.org/web-applications/dirbuster"></outline>
+                            </outline>
+                            <outline text="snallygaster">
+                                <outline text="https://github.com/hannob/snallygaster"></outline>
+                            </outline>
+                            <outline text="File Disclosure
+Browser (fdb)">
+                                <outline text="https://digi.ninja/projects/fdb.php"></outline>
+                            </outline>
+                        </outline>
+                        <outline text="Google
+Hacking
+Database">
+                            <outline text="exploit-db.com"></outline>
+                        </outline>
+                        <outline text="Meta Data gathering">
+                            <outline text="Documents and Images">
+                                <outline text="Foca">
+                                    <outline text="https://github.com/ElevenPaths/FOCA"></outline>
+                                </outline>
+                                <outline text="Strings"></outline>
+                                <outline text="recon-ng(metacrawler)">
+                                    <outline text="https://bitbucket.org/LaNMaSteR53/recon-ng"></outline>
+                                </outline>
+                                <outline text="Exif tool"></outline>
+                            </outline>
+                        </outline>
+                        <outline text="Social Media Profiles">
+                            <outline text="Facebook"></outline>
+                            <outline text="Twitter"></outline>
+                            <outline text="LinkedIn"></outline>
+                        </outline>
+                        <outline text="Emails">
+                            <outline text="Gather Addresses">
+                                <outline text="The Harvester">
+                                    <outline text="https://github.com/laramies/theHarvester"></outline>
+                                </outline>
+                                <outline text="Maltego">
+                                    <outline text="https://www.maltego.com/products/"></outline>
+                                </outline>
+                                <outline text="Samurai">
+                                    <outline text="https://github.com/OffXec/Samurai"></outline>
+                                </outline>
+                                <outline text="InSpy(LinkedIn
+enumeration)">
+                                    <outline text="https://github.com/leapsecurity/InSpy"></outline>
+                                </outline>
+                            </outline>
+                            <outline text="Verify Address">
+                                <outline text="Hunter.io">
+                                    <outline text="https://hunter.io/email-finder"></outline>
+                                </outline>
+                                <outline text="Facebook"></outline>
+                                <outline text="haveibeenpwned.com">
+                                    <outline text="https://haveibeenpwned.com/"></outline>
+                                </outline>
+                                <outline text="Search engines"></outline>
+                            </outline>
+                        </outline>
+                    </outline>
+                    <outline text="Aplication">
+                        <outline text="Client-side Controls">
+                            <outline text="Test Transmission of
+Data via client"></outline>
+                            <outline text="Test Client-side Control
+Over User Input"></outline>
+                            <outline text="Test Thick-client
+Components"></outline>
+                        </outline>
+                        <outline text="Access Controls">
+                            <outline text="Understand the Access
+Control Requirements"></outline>
+                            <outline text="Testing with
+Multiple Accounts"></outline>
+                            <outline text="Testing with
+Limited Access"></outline>
+                            <outline text="Test for Insecure Access
+Control Methods">
+                                <outline text="GitHub Wiki Edit"></outline>
+                            </outline>
+                        </outline>
+                        <outline text="Logic Flaws">
+                            <outline text="Identify the Key
+Attack Surface"></outline>
+                            <outline text="Test Multistage
+Processes"></outline>
+                            <outline text="Test Handling of
+Incomplete Input"></outline>
+                            <outline text="Test Trust Boundaries"></outline>
+                            <outline text="Test Transaction Logic"></outline>
+                            <outline text="Test for usage misuse"></outline>
+                        </outline>
+                        <outline text="Authentication
+Mechanism">
+                            <outline text="Understand the
+Mechanism"></outline>
+                            <outline text="Test Password Quality"></outline>
+                            <outline text="Test for Username
+Enumeration">
+                                <outline text="Forgot Password">
+                                    <outline text="Message output"></outline>
+                                    <outline text="Timing requests"></outline>
+                                </outline>
+                                <outline text="Signup page"></outline>
+                                <outline text="Change username"></outline>
+                            </outline>
+                            <outline text="Test Resilience to
+Password Guessing"></outline>
+                            <outline text="Test Any Account
+Recovery Function"></outline>
+                            <outline text="Test Any
+Remember Me
+Function"></outline>
+                            <outline text="Test Any
+Impersonation
+Function"></outline>
+                            <outline text="Test Username
+Uniqueness">
+                                <outline text="Test Username Uniqueness Test for
+company internal domains"></outline>
+                            </outline>
+                            <outline text="Test Predictability of
+Auto-Generated Credentials"></outline>
+                            <outline text="Test for Unsafe
+Transmission of
+Credentials"></outline>
+                            <outline text="Test for Logic Flaws"></outline>
+                            <outline text="Exploit Any Vulnerabilities to
+Gain Unauthorized Access"></outline>
+                        </outline>
+                        <outline text="Session
+Management
+Mechanism">
+                            <outline text="Understand the
+Mechanism"></outline>
+                            <outline text="Test Tokens for Meaning"></outline>
+                            <outline text="Test Tokens for
+Predictability"></outline>
+                            <outline text="Check for Insecure
+Transmission of Tokens"></outline>
+                            <outline text="Check for Disclosure of
+Tokens in Logs"></outline>
+                            <outline text="Check Mapping of
+Tokens to Sessions"></outline>
+                            <outline text="Test Session
+Termination"></outline>
+                            <outline text="Check for
+Session
+Fixation"></outline>
+                            <outline text="Check for CSRF">
+                                <outline text="XSRFProbe">
+                                    <outline text="https://github.com/0xInfection/XSRFProbe"></outline>
+                                </outline>
+                                <outline text=" Blazy">
+                                    <outline text="https://github.com/s0md3v/Blazy"></outline>
+                                </outline>
+                            </outline>
+                            <outline text="Check for Cookie Scope"></outline>
+                        </outline>
+                        <outline text="Input-based
+Vulnerabilities">
+                            <outline text="Fuzz all Request
+Parameters"></outline>
+                            <outline text="Test for SQL Injection">
+                                <outline text="sqlmap">
+                                    <outline text="https://github.com/sqlmapproject/sqlmap"></outline>
+                                </outline>
+                                <outline text="Blazy">
+                                    <outline text="https://github.com/s0md3v/Blazy"></outline>
+                                </outline>
+                            </outline>
+                            <outline text="Test for XSS and Other
+Response Injection">
+                                <outline text="TPLMap">
+                                    <outline text="https://github.com/epinna/tplmap"></outline>
+                                </outline>
+                                <outline text="XSS Hunter">
+                                    <outline text="https://github.com/mandatoryprogrammer/xsshunter"></outline>
+                                </outline>
+                                <outline text="XSSSniper">
+                                    <outline text="https://github.com/gbrindisi/xsssniper"></outline>
+                                </outline>
+                                <outline text="XSStrike">
+                                    <outline text="https://github.com/s0md3v/XSStrike"></outline>
+                                </outline>
+                                <outline text="RABCDAsm">
+                                    <outline text="https://github.com/CyberShadow/RABCDAsm"></outline>
+                                </outline>
+                                <outline text="JSShell">
+                                    <outline text="https://github.com/Den1al/JSShell"></outline>
+                                </outline>
+                            </outline>
+                            <outline text="Test for OS
+Command
+Injection">
+                                <outline text="Commix"></outline>
+                            </outline>
+                            <outline text="Test for Path Traversal">
+                                <outline text=" dotdotpwn"></outline>
+                                <outline text=" Panoptic"></outline>
+                            </outline>
+                            <outline text="Test for Script Injection"></outline>
+                            <outline text="Test for File
+Inclusion RFI/LFI">
+                                <outline text=" fimap"></outline>
+                                <outline text=" LFISuite"></outline>
+                            </outline>
+                            <outline text="Test for XXE">
+                                <outline text="XXEinjector">
+                                    <outline text="https://github.com/enjoiz/XXEinjector"></outline>
+                                </outline>
+                                <outline text="oxml_xxe">
+                                    <outline text="https://github.com/BuffaloWill/oxml_xxe"></outline>
+                                </outline>
+                                <outline text="xxe.sh">
+                                    <outline text="https://www.xxe.sh/"></outline>
+                                </outline>
+                            </outline>
+                            <outline text="Test for DOM
+based attacks">
+                                <outline text="tracy">
+                                    <outline text="https://github.com/nccgroup/tracy"></outline>
+                                </outline>
+                                <outline text="domdig">
+                                    <outline text="https://github.com/fcavallarin/domdig"></outline>
+                                </outline>
+                            </outline>
+                            <outline text="Test for Race
+Conditions">
+                                <outline text=" Race The Web">
+                                    <outline text="https://github.com/TheHackerDev/race-the-web"></outline>
+                                </outline>
+                            </outline>
+                            <outline text="Test for Object Injection"></outline>
+                            <outline text="Test for HTML Injection"></outline>
+                            <outline text="Test for CRLF Injection"></outline>
+                            <outline text="Test for Host
+header injection"></outline>
+                            <outline text="Test for RCE"></outline>
+                            <outline text="Test for Buffer Overflow"></outline>
+                            <outline text="Test for Open
+URL redirects">
+                                <outline text="Search for parameters">
+                                    <outline text="go"></outline>
+                                    <outline text="return"></outline>
+                                    <outline text="url"></outline>
+                                    <outline text="next"></outline>
+                                    <outline text="redirect"></outline>
+                                    <outline text="page"></outline>
+                                </outline>
+                                <outline text="Steal OAuth tokens
+on Facebook"></outline>
+                            </outline>
+                            <outline text="Test for Reflected
+File Download">
+                                <outline text="rfd-checker"></outline>
+                            </outline>
+                            <outline text="Test for File
+upload exploits"></outline>
+                            <outline text="Test for SSRF">
+                                <outline text="SSRFmap">
+                                    <outline text="https://github.com/swisskyrepo/SSRFmap"></outline>
+                                </outline>
+                                <outline text="Gopherus">
+                                    <outline text="https://github.com/tarunkant/Gopherus"></outline>
+                                </outline>
+                            </outline>
+                            <outline text="Test for
+Parameter
+Tampering"></outline>
+                        </outline>
+                        <outline text="Configuration Flaws">
+                            <outline text="CORS Configuration">
+                                <outline text="ORScanner">
+                                    <outline text="https://github.com/chenjj/CORScanner"></outline>
+                                </outline>
+                            </outline>
+                            <outline text="SOP bypass"></outline>
+                            <outline text="Test for Path Traversal"></outline>
+                            <outline text="Test for
+Directory
+Traversal"></outline>
+                            <outline text="Test for IDOR"></outline>
+                        </outline>
+                        <outline text="Misc Check">
+                            <outline text="Check for
+Frame
+Injection">
+                                <outline text="savanttools.com">
+                                    <outline text="http://savanttools.com/test-frame"></outline>
+                                </outline>
+                                <outline text="Blazy">
+                                    <outline text="https://github.com/s0md3v/Blazy"></outline>
+                                </outline>
+                            </outline>
+                            <outline text="Check for Local
+Privacy Vulnerabilities"></outline>
+                            <outline text="Follow up any
+information leakage">
+                                <outline text="Nmap comments script"></outline>
+                            </outline>
+                            <outline text="Tabnabbing"></outline>
+                            <outline text="UI Redressing
+(Clickjacking)"></outline>
+                            <outline text="Content Spoofing"></outline>
+                            <outline text="Homograph attack"></outline>
+                            <outline text="CSP bypass">
+                                <outline text="JSONBee">
+                                    <outline text="https://github.com/zigoo0/JSONBee"></outline>
+                                </outline>
+                            </outline>
+                            <outline text="Malware Inspection">
+                                <outline text="VirusTotal"></outline>
+                                <outline text="CMS Sites">
+                                    <outline text="Quttera" _note="Quttera offers free malware scanning against your WordPress, Joomla, Drupal, Bulletin, SharePoint website, and provides you an excellent report with the following details.  • Malicious files  • Suspicious files  • Potentially Suspicious files  • Clean files  • External links detected  • Iframes scanned  • Blacklisted status  • List of blacklisted iframes/external links">
+                                        <outline text="https://quttera.com"></outline>
+                                    </outline>
+                                    <outline text="SUCURI">
+                                        <outline text="https://sitecheck.sucuri.net/?cjevent=11bc24974ccd11ea828500e90a240612&amp;cj_aid=13948096&amp;cj_pid=8092889&amp;cj_cid=4761150"></outline>
+                                    </outline>
+                                </outline>
+                            </outline>
+                        </outline>
+                    </outline>
+                    <outline text="SSL and Security
+headers testing">
+                        <outline text="observatory.mozilla.org"></outline>
+                        <outline text="ssllabs.com">
+                            <outline text="https://www.ssllabs.com/ssltest/"></outline>
+                        </outline>
+                        <outline text="sslscan"></outline>
+                    </outline>
+                    <outline text="Automated
+Scanning Tools">
+                        <outline text="Nikto"></outline>
+                        <outline text="Wapiti"></outline>
+                        <outline text="w3af"></outline>
+                        <outline text="sonarwhal"></outline>
+                        <outline text="lazyrecon"></outline>
+                        <outline text="Burp Pro"></outline>
+                        <outline text="ZAP"></outline>
+                    </outline>
+                    <outline text="CMS">
+                        <outline text="Wordpress">
+                            <outline text="wpscan"></outline>
+                            <outline text="WPSeku"></outline>
+                        </outline>
+                        <outline text="Joomla!">
+                            <outline text="joomScan"></outline>
+                            <outline text="joomlavs"></outline>
+                        </outline>
+                        <outline text="Drupal">
+                            <outline text="droopescan"></outline>
+                        </outline>
+                        <outline text="Sharepoint"></outline>
+                    </outline>
+                    <outline text="Database">
+                        <outline text="sqlmap"></outline>
+                        <outline text="NoSQLMap">
+                            <outline text="https://github.com/codingo/NoSQLMap"></outline>
+                        </outline>
+                        <outline text="mongoaudit">
+                            <outline text="https://github.com/stampery/mongoaudit"></outline>
+                        </outline>
+                    </outline>
+                    <outline text="API">
+                        <outline text="API1 - Broken Object
+Level Authorization">
+                            <outline text="Every API endpoint that receives an ID of an object, and performs
+any type of action on the object, should implement object level
+authorization checks. The checks should validate that the
+logged-in user does have access to perform the requested action
+on the requested object.">
+                                <outline text="Astra">
+                                    <outline text="https://github.com/flipkart-incubator/Astra"></outline>
+                                </outline>
+                            </outline>
+                            <outline text="Test for IDOR"></outline>
+                        </outline>
+                        <outline text="API2 - Broken
+Authentication">
+                            <outline text="Permits credential stuffing whereby
+the attacker has a list of valid
+usernames and passwords"></outline>
+                            <outline text="Permits attackers to perform a brute force attack
+on the same user, without presenting captcha /
+account lockout mechanism"></outline>
+                            <outline text="Permits weak
+passwords"></outline>
+                            <outline text="Test for URL sensitive data
+(password, tokens, api keys)"></outline>
+                            <outline text="Doesn’t validate the
+authenticity of tokens"></outline>
+                            <outline text="Uses plain text, encrypted, or
+weakly hashed passwords"></outline>
+                            <outline text="Uses weak encryption
+keys / API keys"></outline>
+                            <outline text="JWT">
+                                <outline text="Test JWT secret
+brute-forcing">
+                                    <outline text="jwt_tool">
+                                        <outline text="https://github.com/ticarpi/jwt_tool"></outline>
+                                    </outline>
+                                </outline>
+                                <outline text="Test if algorithm
+could be changed">
+                                    <outline text="jwt.io">
+                                        <outline text="https://jwt.io/#debugger-io"></outline>
+                                    </outline>
+                                </outline>
+                                <outline text="Test token expiration
+time (TTL, RTTL)"></outline>
+                                <outline text="Test if sensitive
+data is in the JWT">
+                                    <outline text="jwt.io">
+                                        <outline text="https://jwt.io/#debugger-io"></outline>
+                                    </outline>
+                                </outline>
+                                <outline text="Check for Injection
+in &quot;kid&quot; element"></outline>
+                                <outline text="Check for time constant
+verification for HMAC"></outline>
+                                <outline text="Check that keys and secrets are
+different between ENV"></outline>
+                            </outline>
+                            <outline text="OAuth">
+                                <outline text="Test redirect_uri for
+open redirects"></outline>
+                                <outline text="Test the existence of
+response_type=token"></outline>
+                                <outline text="Test CSRF"></outline>
+                            </outline>
+                            <outline text="Check for  Basic Auth"></outline>
+                        </outline>
+                        <outline text="API3 - Excessive
+Data Exposure">
+                            <outline text="The API returns sensitive data to the client by design. This
+data is usually filtered on the client side before being
+presented to the user. An attacker can easily sniff the
+traffic and see the sensitive data"></outline>
+                        </outline>
+                        <outline text="API4 - Lack of
+Resources &amp; Rate
+Limiting">
+                            <outline text="Execution timeouts"></outline>
+                            <outline text="Test brute-force attacks"></outline>
+                            <outline text="Max allocable memory"></outline>
+                            <outline text="Number of file
+descriptors"></outline>
+                            <outline text="Number of processes"></outline>
+                            <outline text="Request payload
+size (e.g. uploads)"></outline>
+                            <outline text="Number of requests
+per client/resource">
+                                <outline text="Astra">
+                                    <outline text="https://github.com/flipkart-incubator/Astra"></outline>
+                                </outline>
+                            </outline>
+                            <outline text="Number of records per page to return
+in a single request response"></outline>
+                        </outline>
+                        <outline text="API5 - Broken Function
+Level Authorization">
+                            <outline text="Can a regular user access
+administrative endpoints?"></outline>
+                            <outline text="Testing different HTTP methods (GET,
+POST, PUT, DELETE, PATCH) will
+allow level escalation?"></outline>
+                            <outline text="Enumerate/Bruteforce endpoints for
+getting unauthorized requests"></outline>
+                        </outline>
+                        <outline text="API6 - Mass
+Assignment">
+                            <outline text="An API endpoint is vulnerable if it automatically converts client
+parameters into internal object properties, without considering the
+sensitivity and the exposure level of these properties. This could
+allow an attacker to update object properties that they should not
+have access to.">
+                                <outline text="Sensitive properties">
+                                    <outline text="Permission-related properties:
+user.is_admin, user.is_vip should
+only be set by admins."></outline>
+                                    <outline text="Process-dependent properties:
+user.cash should only be set internally
+after payment verification."></outline>
+                                    <outline text="Internal properties:
+article.created_time should only
+be set internally by the
+application."></outline>
+                                </outline>
+                            </outline>
+                        </outline>
+                        <outline text="API7 - Security
+Misconfiguration">
+                            <outline text="Appropriate security hardening is missing
+across any part of the application stack, or
+if it has improperly configured permissions
+on cloud services."></outline>
+                            <outline text="The latest security patches are missing,
+or the systems are out of date."></outline>
+                            <outline text="Unnecessary features are
+enabled (e.g., HTTP verbs)."></outline>
+                            <outline text="Transport Layer Security
+(TLS) is missing."></outline>
+                            <outline text="Security directives are not sent to
+clients (e.g., Security Headers)."></outline>
+                            <outline text="A Cross-Origin Resource
+Sharing (CORS) policy is
+missing or improperly set.">
+                                <outline text="Astra">
+                                    <outline text="https://github.com/flipkart-incubator/Astra"></outline>
+                                </outline>
+                            </outline>
+                            <outline text="Error messages include stack
+traces, or other sensitive
+information is exposed."></outline>
+                        </outline>
+                        <outline text="API8 - Injection ">
+                            <outline text="Client-supplied data is not validated,
+filtered, or sanitized by the API.">
+                                <outline text="Astra">
+                                    <outline text="https://github.com/flipkart-incubator/Astra"></outline>
+                                </outline>
+                            </outline>
+                            <outline text="Client-supplied data is directly used or concatenated
+to SQL/NoSQL/LDAP queries, OS commands, XML
+parsers, and Object Relational Mapping (ORM)/Object
+Document Mapper (ODM).">
+                                <outline text="Astra">
+                                    <outline text="https://github.com/flipkart-incubator/Astra"></outline>
+                                </outline>
+                            </outline>
+                            <outline text="Data coming from external systems (e.g.,
+integrated systems) is not validated,
+filtered, or sanitized by the API."></outline>
+                        </outline>
+                        <outline text="API9 - Improper
+Assets Management">
+                            <outline text="There is no documentation,
+or the existing
+documentation is not
+updated."></outline>
+                            <outline text="Hosts inventory is
+missing or outdated."></outline>
+                            <outline text="Integrated services inventory,
+either first- or third-party, is
+missing or outdated."></outline>
+                            <outline text="Old or previous API versions
+are running unpatched."></outline>
+                        </outline>
+                        <outline text="API10 - Insufficient
+Logging &amp; Monitoring">
+                            <outline text="It does not produce any logs, the logging
+level is not set correctly, or log messages do
+not include enough detail."></outline>
+                            <outline text="Log integrity is not
+guaranteed (e.g., Log
+Injection)."></outline>
+                        </outline>
+                    </outline>
+                </outline>
+                <outline text="Network">
+                    <outline text="Recon">
+                        <outline text="Shodan">
+                            <outline text="https://www.shodan.io/"></outline>
+                        </outline>
+                        <outline text="Censys">
+                            <outline text="https://censys.io/"></outline>
+                        </outline>
+                        <outline text="BinaryEdge">
+                            <outline text="https://app.binaryedge.io/"></outline>
+                        </outline>
+                        <outline text="DNS Zone Transfer">
+                            <outline text="DIG"></outline>
+                        </outline>
+                        <outline text="Discovery">
+                            <outline text="Enumerate DNS records">
+                                <outline text="nmap"></outline>
+                                <outline text="hping3"></outline>
+                                <outline text="dns.coffee/domains">
+                                    <outline text="https://dns.coffee/domains"></outline>
+                                </outline>
+                            </outline>
+                            <outline text="Mail Servers"></outline>
+                            <outline text="Whois">
+                                <outline text="http://whois.domaintools.com/"></outline>
+                            </outline>
+                            <outline text="Traceroute">
+                                <outline text="http://www.monitis.com/traceroute/"></outline>
+                            </outline>
+                            <outline text="Reverse IP"></outline>
+                            <outline text="Reverse Whois"></outline>
+                            <outline text="Port Scanning" _note="Tools:  - nmap  Online:  - netcraft  - shodan  - HTTPRecon">
+                                <outline text="Banner Grabbing">
+                                    <outline text="wget"></outline>
+                                    <outline text="curl"></outline>
+                                </outline>
+                                <outline text="Services running">
+                                    <outline text="Test for
+common/default
+passwords"></outline>
+                                    <outline text="Test for open
+vulnerabilities"></outline>
+                                    <outline text="Brute-force
+possible services">
+                                        <outline text="Brutus"></outline>
+                                        <outline text="THC-Hydra/XHydra"></outline>
+                                        <outline text="Ncrack"></outline>
+                                        <outline text="Patator"></outline>
+                                    </outline>
+                                </outline>
+                                <outline text="OS Fingerprinting">
+                                    <outline text="Test for open
+vulnerabilities"></outline>
+                                </outline>
+                                <outline text="Open Ports">
+                                    <outline text="Masscan">
+                                        <outline text="https://github.com/robertdavidgraham/masscan"></outline>
+                                    </outline>
+                                    <outline text="nmap">
+                                        <outline text="https://nmap.org/"></outline>
+                                    </outline>
+                                    <outline text="Nmap Bootstrap
+Stylesheet">
+                                        <outline text="https://github.com/honze-net/nmap-bootstrap-xsl/"></outline>
+                                    </outline>
+                                </outline>
+                            </outline>
+                        </outline>
+                        <outline text="Automated
+Scanning Tools">
+                            <outline text="OpenVAS"></outline>
+                            <outline text="Nessus"></outline>
+                        </outline>
+                    </outline>
+                    <outline text="Subdomain Takeover">
+                        <outline text="tko-subs"></outline>
+                        <outline text="HostileSubBruteForcer">
+                            <outline text="https://github.com/nahamsec/HostileSubBruteforcer"></outline>
+                        </outline>
+                        <outline text="SubOver">
+                            <outline text="https://github.com/Ice3man543/SubOver"></outline>
+                        </outline>
+                        <outline text="subjack">
+                            <outline text="https://github.com/haccer/subjack"></outline>
+                        </outline>
+                    </outline>
+                    <outline text="Exploit Tools">
+                        <outline text="Metasploit"></outline>
+                        <outline text="Evilgrade"></outline>
+                        <outline text="JudasDNS">
+                            <outline text="https://github.com/mandatoryprogrammer/JudasDNS"></outline>
+                        </outline>
+                    </outline>
+                    <outline text="SSL Checks">
+                        <outline text="sslscan"></outline>
+                        <outline text="Heartbleed"></outline>
+                        <outline text="POODLE"></outline>
+                        <outline text="DROWN"></outline>
+                    </outline>
+                    <outline text="TLS ROBOT"></outline>
+                    <outline text="Bash ShellShock"></outline>
+                    <outline text="Sniffing">
+                        <outline text="Wireshark"></outline>
+                        <outline text="Dsniff"></outline>
+                        <outline text="Bettercap"></outline>
+                    </outline>
+                </outline>
+            </outline>
+            <outline text="Physical">
+                <outline text="Offices"></outline>
+                <outline text="Datacenter Locations"></outline>
+                <outline text="Third-Party
+Service
+Providers"></outline>
+                <outline text="Surveillance">
+                    <outline text="Cameradar">
+                        <outline text="https://github.com/Ullaakut/cameradar"></outline>
+                    </outline>
+                    <outline text="kamerka">
+                        <outline text="https://github.com/woj-ciech/kamerka"></outline>
+                    </outline>
+                </outline>
+            </outline>
+            <outline text="Logical">
+                <outline text="Founded">
+                    <outline text="What date was the
+company founded?"></outline>
+                </outline>
+                <outline text="Competitors">
+                    <outline text="Grab the case studies the target
+have published and gather some
+inside information"></outline>
+                </outline>
+                <outline text="Case Studies">
+                    <outline text="Grab the case studies the target
+have published and gather some
+inside information"></outline>
+                </outline>
+                <outline text="Employees">
+                    <outline text="Linkedin"></outline>
+                    <outline text="Github">
+                        <outline text="github.com/search?q=
+{COMPANY_NAME}-&amp;type=Users"></outline>
+                    </outline>
+                </outline>
+                <outline text="Funding Rounds"></outline>
+                <outline text="Stackshare"></outline>
+                <outline text="Job Positions">
+                    <outline text="Indeed"></outline>
+                    <outline text="Linkedin"></outline>
+                    <outline text="Monster"></outline>
+                    <outline text="Glassdoor"></outline>
+                    <outline text="Jobvite"></outline>
+                    <outline text="Greenhouse"></outline>
+                </outline>
+                <outline text="Public legal records">
+                    <outline text="https://publicrecords.netronline.com/"></outline>
+                </outline>
+                <outline text="OpenSecrets">
+                    <outline text="https://www.opensecrets.org/"></outline>
+                </outline>
+                <outline text="Partners">
+                    <outline text="List all the partners
+the target has">
+                        <outline text="Google"></outline>
+                        <outline text="Linkedin"></outline>
+                    </outline>
+                </outline>
+                <outline text="Investors">
+                    <outline text=" Crunchbase"></outline>
+                </outline>
+                <outline text="Misc">
+                    <outline text="Phone Lookup"></outline>
+                    <outline text="License Plate Lookup"></outline>
+                    <outline text="Search People" _note="Tools:  - https://www.truepeoplesearch.com  - https://www.familytreenow.com  - http://www.mooseroots.com   - https://www.advancedbackgroundchecks.com  - http://www.peekyou.com"></outline>
+                </outline>
+                <outline text="People search engine">
+                    <outline text="pipl.com">
+                        <outline text="https://pipl.com/"></outline>
+                    </outline>
+                    <outline text="sync.me">
+                        <outline text="https://sync.me/"></outline>
+                    </outline>
+                    <outline text="truecaller.com">
+                        <outline text="https://www.truecaller.com/"></outline>
+                    </outline>
+                    <outline text="trape">
+                        <outline text="https://github.com/jofpin/trape"></outline>
+                    </outline>
+                </outline>
+            </outline>
+            <outline text="Internet of Things">
+                <outline text="Recon">
+                    <outline text="External">
+                        <outline text="fccid.io">
+                            <outline text="Does it reveal details
+about the target?"></outline>
+                            <outline text="Identify chipsets
+being used"></outline>
+                            <outline text="Identify
+exposed
+interfaces"></outline>
+                            <outline text="Check for internal and
+external pictures"></outline>
+                            <outline text="Test cases on the device"></outline>
+                            <outline text="Find on which
+frequency is being
+used"></outline>
+                        </outline>
+                        <outline text="Identify ports
+and interfaces"></outline>
+                        <outline text="Check voltage and
+power consumption"></outline>
+                    </outline>
+                    <outline text="Internal">
+                        <outline text="Identify chips"></outline>
+                        <outline text="Identify other
+components"></outline>
+                        <outline text="Copper tracing"></outline>
+                    </outline>
+                    <outline text="Identify the pinouts for
+the Serial interface">
+                        <outline text="Multimeter"></outline>
+                        <outline text="Logic analyzer"></outline>
+                        <outline text="JTAGulator"></outline>
+                    </outline>
+                </outline>
+                <outline text="Testing">
+                    <outline text="Connect to the
+Serial interface">
+                        <outline text="Identify the baudrate"></outline>
+                        <outline text="Shell">
+                            <outline text="Authenticated">
+                                <outline text="Dump the firmware"></outline>
+                                <outline text="Modify values on the device
+and see if it persists"></outline>
+                                <outline text="Control the
+device via Shell"></outline>
+                                <outline text="Does shell have
+root privileges?"></outline>
+                            </outline>
+                            <outline text="Unauthenticated">
+                                <outline text="Can you brute-force
+the password?"></outline>
+                                <outline text="Is the password hidden
+in the firmware?"></outline>
+                                <outline text="Bootloader
+manipulation
+attacks"></outline>
+                            </outline>
+                        </outline>
+                    </outline>
+                    <outline text="Analyze firmware">
+                        <outline text="Is the firmware
+encrypted?">
+                            <outline text="What kind of
+encryption is being
+used?">
+                                <outline text="hexdump"></outline>
+                                <outline text="strings"></outline>
+                                <outline text="binwalk"></outline>
+                            </outline>
+                        </outline>
+                        <outline text="Extracting components
+from the firmware">
+                            <outline text="Extract the file system">
+                                <outline text="binwalk"></outline>
+                            </outline>
+                            <outline text="Find hardcoded
+credentials">
+                                <outline text="API keys"></outline>
+                                <outline text="Private certificates"></outline>
+                                <outline text="Backdoor"></outline>
+                                <outline text="Config files"></outline>
+                            </outline>
+                        </outline>
+                        <outline text="Emulating the firmware">
+                            <outline text="Identify the architecture"></outline>
+                            <outline text="Emulate the firmware">
+                                <outline text="Qemu"></outline>
+                                <outline text="Chroot"></outline>
+                                <outline text="FAT"></outline>
+                            </outline>
+                            <outline text="Perform analysis and
+exploitation via emulation"></outline>
+                        </outline>
+                        <outline text="Reverse Engineering
+firmware binaries">
+                            <outline text="Test for command
+injection bugs">
+                                <outline text="IDA analysis"></outline>
+                                <outline text="Web files"></outline>
+                            </outline>
+                            <outline text="Identify buffer overflows and other
+binary vulns and exploitation"></outline>
+                        </outline>
+                        <outline text="Automated
+Scanning Tools">
+                            <outline text="Firmwalker"></outline>
+                        </outline>
+                    </outline>
+                    <outline text="Communication with Mobile
+and Web applications">
+                        <outline text="Reverse Engineer the
+Mobile Application">
+                            <outline text="Search for ports
+being used">
+                                <outline text="JADx"></outline>
+                                <outline text="APKTool"></outline>
+                            </outline>
+                            <outline text="Search for hardcoded
+firmware download URLs">
+                                <outline text="JADx"></outline>
+                                <outline text="APKTool"></outline>
+                            </outline>
+                            <outline text="Identify command
+messaging format">
+                                <outline text="JADx"></outline>
+                                <outline text="APKTool"></outline>
+                            </outline>
+                            <outline text="Search for
+hardcoded
+SSIDs">
+                                <outline text="JADx"></outline>
+                                <outline text="APKTool"></outline>
+                            </outline>
+                            <outline text="Search for hardcoded
+encryption keys">
+                                <outline text="JADx"></outline>
+                                <outline text="APKTool"></outline>
+                            </outline>
+                        </outline>
+                        <outline text="Intercept the traffic">
+                            <outline text="Search and Analyze the
+traffic between devices"></outline>
+                        </outline>
+                        <outline text="MQTT">
+                            <outline text="What topic are
+being used?"></outline>
+                            <outline text="Can you subscribe
+to any topic?"></outline>
+                            <outline text="Can you publish
+to the topics?"></outline>
+                            <outline text="Is there
+authentication being
+used?"></outline>
+                        </outline>
+                        <outline text="CoAP">
+                            <outline text="Is the
+implementation
+secure?"></outline>
+                        </outline>
+                    </outline>
+                    <outline text="Radio Security">
+                        <outline text="Identify spikes in the frequency used
+when data is being transferred">
+                            <outline text="GQRX"></outline>
+                        </outline>
+                        <outline text="Bluetooth">
+                            <outline text="BLE">
+                                <outline text="Scan for devices">
+                                    <outline text="Bettercap">
+                                        <outline text="https://github.com/bettercap/bettercap"></outline>
+                                    </outline>
+                                    <outline text="Blue Hydra">
+                                        <outline text="https://github.com/pwnieexpress/blue_hydra"></outline>
+                                    </outline>
+                                    <outline text="btlejack">
+                                        <outline text="https://github.com/virtualabs/btlejack"></outline>
+                                    </outline>
+                                </outline>
+                                <outline text="Try to sniff the
+communication">
+                                    <outline text="Wireshark">
+                                        <outline text="btlejack">
+                                            <outline text="https://github.com/virtualabs/btlejack"></outline>
+                                        </outline>
+                                        <outline text="Adafruit BLE Sniffer"></outline>
+                                        <outline text="Ubertooth">
+                                            <outline text="https://github.com/greatscottgadgets/ubertooth"></outline>
+                                        </outline>
+                                    </outline>
+                                </outline>
+                                <outline text="Identify the handles
+being read and written">
+                                    <outline text="Bettercap">
+                                        <outline text="https://github.com/bettercap/bettercap"></outline>
+                                    </outline>
+                                </outline>
+                                <outline text="Can you write handles?">
+                                    <outline text="gatttool"></outline>
+                                    <outline text="btlejack">
+                                        <outline text="https://github.com/virtualabs/btlejack"></outline>
+                                    </outline>
+                                </outline>
+                                <outline text="Are replay
+attacks
+possible?">
+                                    <outline text="BTLEJuice">
+                                        <outline text="https://github.com/DigitalSecurity/btlejuice"></outline>
+                                    </outline>
+                                    <outline text="gattacker">
+                                        <outline text="https://github.com/securing/gattacker"></outline>
+                                    </outline>
+                                </outline>
+                                <outline text="Is the
+communication
+encrypted?">
+                                    <outline text="Yes">
+                                        <outline text="Did you caputred the inital key
+exchange communication?"></outline>
+                                        <outline text="Can you decrypt the
+communication by
+brute-forcing?">
+                                            <outline text="crackle">
+                                                <outline text="https://github.com/mikeryan/crackle"></outline>
+                                            </outline>
+                                        </outline>
+                                    </outline>
+                                    <outline text="No">
+                                        <outline text="Is sensitive information being
+passed in clear text?"></outline>
+                                    </outline>
+                                </outline>
+                                <outline text="Classic"></outline>
+                            </outline>
+                        </outline>
+                        <outline text="ZigBee">
+                            <outline text="Identify channel ZigBee
+is communicating">
+                                <outline text="zbstumbler"></outline>
+                            </outline>
+                            <outline text="Try to sniff the
+communication">
+                                <outline text="zbdump"></outline>
+                                <outline text="zbwireshark"></outline>
+                            </outline>
+                            <outline text="Is the
+communication
+encrypted?"></outline>
+                            <outline text="Can you capture the key
+exchange or found the key on
+the device or firmware?"></outline>
+                            <outline text="Are you able to decrypt
+the communication"></outline>
+                            <outline text="Are replay
+attacks
+possible?">
+                                <outline text=" zbreplay"></outline>
+                            </outline>
+                        </outline>
+                        <outline text="Wi-Fi">
+                            <outline text="Signal processing blocks to
+implement software radios">
+                                <outline text="GNURadio"></outline>
+                            </outline>
+                        </outline>
+                    </outline>
+                </outline>
+            </outline>
+            <outline text="MobileApplication">
+                <outline text="OWASP 2016">
+                    <outline text="M1 - Improper
+Platform Usage"></outline>
+                    <outline text="M2 - Insecure
+Data Storage"></outline>
+                    <outline text="M3 - Insecure
+Communication"></outline>
+                    <outline text="M4 - Insecure
+Authentication"></outline>
+                    <outline text="M5 - Insufficient
+Cryptography"></outline>
+                    <outline text="M6 - Insecure
+Authorization"></outline>
+                    <outline text="M7 - Client Code Quality"></outline>
+                    <outline text="M8 - Code Tampering"></outline>
+                    <outline text="M9 - Reverse
+Engineering"></outline>
+                    <outline text="M10 - Extraneous
+Functionality"></outline>
+                </outline>
+                <outline text="iOS"></outline>
+                <outline text="Android"></outline>
+            </outline>
+        </outline>
+    </body>
+</opml>
