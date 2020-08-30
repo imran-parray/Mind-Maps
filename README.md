@@ -30,7 +30,7 @@
 ---
 
 ## Testing 2FA [2] - [[hackerscrolls](https://twitter.com/hackerscrolls)]
-![x2](https://github.com/imran-parray/Mind-Maps/blob/master/Testing%202FA%20(2)%20-%20hackerscroll/Testing%202FA.jpeg)
+![x3](https://github.com/imran-parray/Mind-Maps/blob/master/Testing%202FA%20(2)%20-%20hackerscroll/Testing%202FA.jpeg)
 
 
 
@@ -49,4 +49,4 @@
 --- 
 
 ## Security Assesment Mindmap - [[Sopas](https://twitter.com/dsopas)]
-![x4](https://github.com/imran-parray/Mind-Maps/blob/master/Security%20Assesment%20-%20SOPAS/assessment-mindset.png)
+[Click Here to View](https://github.com/imran-parray/Mind-Maps/blob/master/Security%20Assesment%20-%20SOPAS/assessment-mindset.png)
