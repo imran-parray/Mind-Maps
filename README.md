@@ -44,3 +44,9 @@
 
 ## Testing oAuth for Vulnerabilities - [[hackerscrolls](https://twitter.com/hackerscrolls)]
 ![x3](https://github.com/imran-parray/Mind-Maps/blob/master/Testing%20OAuth%20-%20hackerscroll/Testing%20oAuth.jpeg)
+
+
+--- 
+
+## Security Assesment Mindmap - [[Sopas](https://twitter.com/dsopas)]
+![x4](https://github.com/imran-parray/Mind-Maps/blob/master/Security%20Assesment%20-%20SOPAS/assessment-mindset.png)
