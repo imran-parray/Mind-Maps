@@ -49,4 +49,4 @@
 --- 
 
 ## Security Assesment Mindmap - [[Sopas](https://twitter.com/dsopas)]
-[Click Here to View](https://github.com/imran-parray/Mind-Maps/blob/master/Security%20Assesment%20-%20SOPAS/assessment-mindset.png)
+[![xx](https://github.com/imran-parray/Mind-Maps/blob/master/Security%20Assesment%20-%20SOPAS/thumbnail.png)](https://github.com/imran-parray/Mind-Maps/blob/master/Security%20Assesment%20-%20SOPAS/assessment-mindset.png)
