@@ -1,5 +1,6 @@
 # Mind-Maps
 
+> This repository stores and houses various Mindmaps for bug bounty Hunters, pentesters and security Professionals provided by me as well as contributed by the community. Your contributions and suggestions are welcomed.
 
 ## Bug Hunters Methodology - [[Jhaddix](https://twitter.com/jhaddix)]
 ![xx](https://github.com/imran-parray/Mind-Maps/blob/master/Bug%20Hunters%20Methodology%20v4/MindMap.png)
