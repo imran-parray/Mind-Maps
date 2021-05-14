@@ -56,3 +56,24 @@
 
 ## Red Teaming Mind Map from The Hacker Playbook 3 - [[Marcon Lencini](https://twitter.com/lancinimarco)]
 ![](https://github.com/imran-parray/Mind-Maps/blob/master/Red%20Teaming%20Mind%20Map%20from%20The%20Hacker%20Playbook%203/blog_hackerplaybook_mindmap.png)
+
+
+--- 
+
+
+## SSRF MindMap - [[hackerscrolls](https://twitter.com/hackerscrolls)]
+![x3](https://github.com/imran-parray/Mind-Maps/blob/master/SSRF%20-%20Hackerscroll/ssrf.jpeg)
+
+
+--- 
+
+## OAuth Security MindMap - [[hackerscrolls](https://twitter.com/hackerscrolls)]
+![x3](https://github.com/imran-parray/Mind-Maps/blob/master/oAuth%20-%20Hackerscroll/OAuth.jpeg)
+
+--- 
+
+## Code Review Mindmap - [[www.amanhardikar.com](http://www.amanhardikar.com)]
+![x3](https://github.com/imran-parray/Mind-Maps/blob/master/Code%20review%20-%20amanhardikar/CodeReview.png
+)
+
+
