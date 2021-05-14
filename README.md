@@ -64,12 +64,6 @@
 ## SSRF MindMap - [[hackerscrolls](https://twitter.com/hackerscrolls)]
 ![x3](https://github.com/imran-parray/Mind-Maps/blob/master/SSRF%20-%20Hackerscroll/ssrf.jpeg)
 
-
---- 
-
-## OAuth Security MindMap - [[hackerscrolls](https://twitter.com/hackerscrolls)]
-![x3](https://github.com/imran-parray/Mind-Maps/blob/master/oAuth%20-%20Hackerscroll/OAuth.jpeg)
-
 --- 
 
 ## Code Review Mindmap - [[www.amanhardikar.com](http://www.amanhardikar.com)]
