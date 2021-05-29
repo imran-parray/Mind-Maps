@@ -17,3 +17,7 @@
 | SSRF MindMap                                    | [🔗](https://github.com/imran-parray/Mind-Maps/blob/master/SSRF%20-%20Hackerscroll/ssrf.jpeg) | **🔴**  | How to test SSRF for Bugs                                    | [hackerscrolls](https://twitter.com/hackerscrolls)  |
 | Code Review Mindmap                             | [🔗](https://github.com/imran-parray/Mind-Maps/blob/master/Code%20review%20-%20amanhardikar/CodeReview.png) | **🔴**🔵 | Mindmap containing several techniques and approaches used while code review. | [www.amanhardikar.com](http://www.amanhardikar.com) |
 | Android Application Penetration Testing Mindmap| [🔗](https://github.com/imran-parray/Mind-Maps/blob/master/Android%20Mindmap%20-%20Harsh%20Bothra/AndroidMindmap.jpeg) | **🔴** | A simple mindmap to organise various test cases around Android Application Penetration Testing| [Harsh Bothra](https://twitter.com/harshbothra_) |
+
+---
+
+Secial Thanks to all the authors for publish these mindmaps 🥳🥳🥳
