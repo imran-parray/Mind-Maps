@@ -17,6 +17,10 @@
 | SSRF MindMap                                    | [🔗](https://github.com/imran-parray/Mind-Maps/blob/master/SSRF%20-%20Hackerscroll/ssrf.jpeg) | **🔴**  | How to test SSRF for Bugs                                    | [hackerscrolls](https://twitter.com/hackerscrolls)  |
 | Code Review Mindmap                             | [🔗](https://github.com/imran-parray/Mind-Maps/blob/master/Code%20review%20-%20amanhardikar/CodeReview.png) | **🔴**🔵 | Mindmap containing several techniques and approaches used while code review. | [www.amanhardikar.com](http://www.amanhardikar.com) |
 | Android Application Penetration Testing Mindmap| [🔗](https://github.com/imran-parray/Mind-Maps/blob/master/Android%20Mindmap%20-%20Harsh%20Bothra/AndroidMindmap.jpeg) | **🔴** | A simple mindmap to organise various test cases around Android Application Penetration Testing| [Harsh Bothra](https://twitter.com/harshbothra_) |
+| Cookie Based Authentication Vulnerabilities | [🔗](https://github.com/imran-parray/Mind-Maps/blob/master/Cookie%20Based%20Authentication%20Vulnerabilities%20-%20Harsh%20Bothra/Cookie_Based_Authentication_Vulnerabilities.png) | **🔴** | a comprehensive Mindmap which includes verious techniques to test Cookie based authentication mechanism. | [Harsh Bothra](https://twitter.com/harshbothra_) |
+| Tesing JIRA for CVE's                       | [🔗](https://github.com/imran-parray/Mind-Maps/blob/master/Tesing%20JIRA%20for%20CVE's%20-%20Harsh%20Bothra/JIRA_CVEs.png) | **🔴** | Detailed Mindmap on How to find and exploit JIRA CVE's.      | [Harsh Bothra](https://twitter.com/harshbothra_) |
+| Scope Based Testing                         | [🔗](https://github.com/imran-parray/Mind-Maps/blob/master/Scope%20Based%20Testing%20-%20Harsh%20Bothra/Scope_Based_Recon.png) | **🔴** | This Mindmap explains how to test for bugs based on the scope of your target. | [Harsh Bothra](https://twitter.com/harshbothra_) |
+
 
 ---
 
