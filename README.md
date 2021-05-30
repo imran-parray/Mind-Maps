@@ -24,4 +24,4 @@
 
 ---
 
-Secial Thanks to all the authors for publish these mindmaps 🥳🥳🥳
+Special Thanks to all the authors for publish these mindmaps 🥳🥳🥳
