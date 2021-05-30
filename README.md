@@ -20,7 +20,7 @@
 | Cookie Based Authentication Vulnerabilities | [🔗](https://github.com/imran-parray/Mind-Maps/blob/master/Cookie%20Based%20Authentication%20Vulnerabilities%20-%20Harsh%20Bothra/Cookie_Based_Authentication_Vulnerabilities.png) | **🔴** | a comprehensive Mind-map which includes various techniques to test Cookie based authentication mechanism. | [Harsh Bothra](https://twitter.com/harshbothra_) |
 | Tesing JIRA for CVE's                       | [🔗](https://github.com/imran-parray/Mind-Maps/blob/master/Tesing%20JIRA%20for%20CVE's%20-%20Harsh%20Bothra/JIRA_CVEs.png) | **🔴** | Detailed Mind-map on How to find and exploit JIRA CVE's. | [Harsh Bothra](https://twitter.com/harshbothra_) |
 | Scope Based Testing                         | [🔗](https://github.com/imran-parray/Mind-Maps/blob/master/Scope%20Based%20Testing%20-%20Harsh%20Bothra/Scope_Based_Recon.png) | **🔴** | This Mind-map explains how to test for bugs based on the scope of your target. | [Harsh Bothra](https://twitter.com/harshbothra_) |
-
+| OAuth 2.0 Threat Model Pentesting Checklist| [🔗](https://github.com/imran-parray/Mind-Maps/blob/master/Oauth2%20Pentest%20Checklist%20-%20BinaryBrotherh1/oauth.png) | **🔴** | The following checklist represents a simplified visual alternative to IETF OAuth 2.0 Security Best Current Practice publication combined with various other public resources we found usefull.| [Binary Brotherhood](https://twitter.com/BinaryBrotherh1) |
 
 ---
 
