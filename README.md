@@ -21,6 +21,11 @@
 | Tesing JIRA for CVE's                       | [🔗](https://github.com/imran-parray/Mind-Maps/blob/master/Tesing%20JIRA%20for%20CVE's%20-%20Harsh%20Bothra/JIRA_CVEs.png) | **🔴** | Detailed Mind-map on How to find and exploit JIRA CVE's. | [Harsh Bothra](https://twitter.com/harshbothra_) |
 | Scope Based Testing                         | [🔗](https://github.com/imran-parray/Mind-Maps/blob/master/Scope%20Based%20Testing%20-%20Harsh%20Bothra/Scope_Based_Recon.png) | **🔴** | This Mind-map explains how to test for bugs based on the scope of your target. | [Harsh Bothra](https://twitter.com/harshbothra_) |
 | OAuth 2.0 Threat Model Pentesting Checklist| [🔗](https://github.com/imran-parray/Mind-Maps/blob/master/Oauth2%20Pentest%20Checklist%20-%20BinaryBrotherh1/oauth.png) | **🔴** | The following checklist represents a simplified visual alternative to IETF OAuth 2.0 Security Best Current Practice publication combined with various other public resources we found usefull.| [Binary Brotherhood](https://twitter.com/BinaryBrotherh1) |
+|Bug Bounty Platforms  |[🔗](https://www.mindmeister.com/1578309575/bug-bounty-platforms)| 🔴 | list of bug bounty platform available  | [fujie gu](https://www.mindmeister.com/users/channel/51127258)  |
+|Web App Pentest|[🔗](https://www.mindmeister.com/1748098748/web-app-pentest?fullscreen=1)|🔴|Web application Pentest Mindmap|[Ding Jayway](https://www.mindmeister.com/users/channel/60235712)|
+|Web App Pentest|[🔗](https://www.mindmeister.com/1470766611/web-app-pentest?fullscreen=1)|🔴|This mind-map has the list of bugs and the corresponding tools and techniques used to find those bugs|[Ninad Mathpati](https://www.mindmeister.com/users/channel/45787993)
+|
+
 
 ---
 
