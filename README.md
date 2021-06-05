@@ -25,6 +25,10 @@
 |Web App Pentest|[🔗](https://www.mindmeister.com/1748098748/web-app-pentest?fullscreen=1)|🔴|Web application Pentest Mindmap|[Ding Jayway](https://www.mindmeister.com/users/channel/60235712)|
 |Web App Pentest|[🔗](https://www.mindmeister.com/1470766611/web-app-pentest?fullscreen=1)|🔴|This mind-map has the list of bugs and the corresponding tools and techniques used to find those bugs|[Ninad Mathpati](https://www.mindmeister.com/users/channel/45787993)|
 |Mobile Security Mindmap|[🔗](https://raw.githubusercontent.com/imran-parray/Mind-Maps/master/Mobile%20App%20Security%20-%20Aman%20Hardikar/map.png)|🔴|a comprehensive Mind-map which includes various techniques to test Mobile Application for security issues|[Aman Hardikar](https://twitter.com/AmanHardikar)|
+|Web Security Field Mindmap|[🔗](https://www.mindmeister.com/1746180947/web-vulnerability-by-joas-antonio?fullscreen=1)|🔴🔵|This mindmap is an combination of Web Attacks, AppSec and Bug Bounty stuff|[jois](https://www.mindmeister.com/users/channel/36439824)|
+|Security Consulting & Implementation|[🔗](https://www.mindmeister.com/988579189/security-consulting-implementation?fullscreen=1)|🔵|Security Consulting & Implementation mindmap|[Lawrence Pingree](https://www.mindmeister.com/users/channel/1154930)|
+|Information Security Technologies & Markets|[🔗](https://www.mindmeister.com/783360255/information-security-technologies-markets-by-lawrence-pingree?fullscreen=1)|🔴🔵|This Mindmap is an combination of Information Security Technologies & Markets|[ovens ffdf](https://www.mindmeister.com/users/channel/16669742)|
+|Information Security Technologies & Markets|[🔗](https://www.mindmeister.com/333578609/information-security-technologies-markets)|🔴🔵|This mindmap contains different Information Security Technologies & Markets|[John Fortner](https://www.mindmeister.com/users/channel/4563052)|
 
 
 ---
