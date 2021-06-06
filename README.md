@@ -1,6 +1,6 @@
 # MindMaps 🗺️
 
-> This repository stores and houses various Mindmaps for bug bounty Hunters🧑‍🦰, pentesters🧑‍🦰 and security Professionals🫂 provided by me as well as contributed by the community🧑🏻‍🤝‍🧑🏽. Your contributions and suggestions are welcomed.
+> This repository stores and houses various Mindmaps for bug bounty Hunters🧑‍🦰, pentesters🧑‍🦰 and offensive(🔴)/defensive(🔵) security Professionals🫂 provided by me as well as contributed by the community🧑🏻‍🤝‍🧑🏽. Your contributions and suggestions are welcomed.
 
 | Name                                            | Link                                                         | Type   | Description                                                  | Author                                              |
 | ----------------------------------------------- | ------------------------------------------------------------ | ------ | ------------------------------------------------------------ | --------------------------------------------------- |
@@ -33,4 +33,4 @@
 
 ---
 
-Special Thanks to all the authors for publish these mindmaps 🥳🥳🥳
+Special Thanks to all the authors for publishing these mindmaps 🥳🥳🥳
