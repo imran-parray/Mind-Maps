@@ -30,6 +30,7 @@
 |Security Consulting & Implementation|[🔗](https://www.mindmeister.com/988579189/security-consulting-implementation?fullscreen=1)|🔵|Security Consulting & Implementation mindmap|[Lawrence Pingree](https://www.mindmeister.com/users/channel/1154930)|
 |Information Security Technologies & Markets|[🔗](https://www.mindmeister.com/783360255/information-security-technologies-markets-by-lawrence-pingree?fullscreen=1)|🔴🔵|This Mindmap is an combination of Information Security Technologies & Markets|[ovens ffdf](https://www.mindmeister.com/users/channel/16669742)|
 |Information Security Technologies & Markets|[🔗](https://www.mindmeister.com/333578609/information-security-technologies-markets)|🔴🔵|This mindmap contains different Information Security Technologies & Markets|[John Fortner](https://www.mindmeister.com/users/channel/4563052)|
+|Nmap Scans Mindmap|[🔗](https://github.com/imran-parray/Mind-Maps/blob/master/Nmap%20scans%20-%20OnlyHacker/mindmap.jpg)|🔴🔵|This mindmap show how different type of scans can be performed via Nmap Scanner|[Only Hacker](https://onlyhacker.com)|
 
 
 ---
