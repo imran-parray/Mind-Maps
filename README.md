@@ -1,6 +1,6 @@
 # MindMaps 🗺️
 
-> This repository stores and houses various Mindmaps for bug bounty Hunters🧑‍🦰, pentesters🧑‍🦰 and security Professionals🫂 provided by me as well as contributed by the community🧑🏻‍🤝‍🧑🏽. Your contributions and suggestions are welcomed.
+> This repository stores and houses various Mindmaps for bug bounty Hunters🧑‍🦰, pentesters🧑‍🦰 and offensive(🔴)/defensive(🔵) security Professionals🫂 provided by me as well as contributed by the community🧑🏻‍🤝‍🧑🏽. Your contributions and suggestions are welcomed.
 
 | Name                                            | Link                                                         | Type   | Description                                                  | Author                                              |
 | ----------------------------------------------- | ------------------------------------------------------------ | ------ | ------------------------------------------------------------ | --------------------------------------------------- |
@@ -10,6 +10,7 @@
 | My Recon                                        | [🔗](https://github.com/imran-parray/Mind-Maps/blob/master/Recon%20-%20Imran%20parray/My-recon.png) | **🔴**  | This mind-map explains how to look for various server side and client side bugs on Bug bounty programs | [Imran parray](https://twitter.com/imranparray101)  |
 | Testing 2FA                                     | [🔗](https://github.com/imran-parray/Mind-Maps/blob/master/Testing%202FA-hackerscrolls/Testing%202FA.jpeg) | **🔴**  | How to test 2FA for Bugs                                     | [hackerscrolls](https://twitter.com/hackerscrolls)  |
 | Testing 2FA [2]                                 | [🔗](https://github.com/imran-parray/Mind-Maps/blob/master/Testing%202FA%20(2)%20-%20hackerscroll/Testing%202FA.jpeg) | **🔴**  | How to test 2FA for Bugs                                     | [hackerscrolls](https://twitter.com/hackerscrolls)  |
+| 2FA Bypass Techniques                            | [🔗](https://github.com/imran-parray/Mind-Maps/blob/master/2FA%20Bypass%20Techniques%20-%20Harsh%20Bothra/2FA%20Bypass%20Techniques.png) | **🔴**  | 2FA Bypass Techniques                                    | [Harsh Bothra](https://twitter.com/harshbothra_)  |
 | Android Attacker Vectors                        | [🔗](https://github.com/imran-parray/Mind-Maps/blob/master/Android%20Attacker%20Vector%20-%20hackerscroll/Android%20Attacker%20Vector.png) | **🔴**  | Detailed Mindmap on How to find and exploit Android bugs.    | [hackerscrolls](https://twitter.com/hackerscrolls)  |
 | Testing oAuth for Vulnerabilities               | [🔗](https://github.com/imran-parray/Mind-Maps/blob/master/Testing%20OAuth%20-%20hackerscroll/Testing%20oAuth.jpeg) | **🔴**  | How to test Oauth for Bugs                                   | [hackerscrolls](https://twitter.com/hackerscrolls)  |
 | Security Assesment Mindmap                      | [🔗](https://github.com/imran-parray/Mind-Maps/blob/master/Security%20Assesment%20-%20SOPAS/assessment-mindset.png) | **🔴**  | General security Assessment Mind-map   | [Sopas](https://twitter.com/dsopas)                 |
@@ -21,7 +22,19 @@
 | Tesing JIRA for CVE's                       | [🔗](https://github.com/imran-parray/Mind-Maps/blob/master/Tesing%20JIRA%20for%20CVE's%20-%20Harsh%20Bothra/JIRA_CVEs.png) | **🔴** | Detailed Mind-map on How to find and exploit JIRA CVE's. | [Harsh Bothra](https://twitter.com/harshbothra_) |
 | Scope Based Testing                         | [🔗](https://github.com/imran-parray/Mind-Maps/blob/master/Scope%20Based%20Testing%20-%20Harsh%20Bothra/Scope_Based_Recon.png) | **🔴** | This Mind-map explains how to test for bugs based on the scope of your target. | [Harsh Bothra](https://twitter.com/harshbothra_) |
 | OAuth 2.0 Threat Model Pentesting Checklist| [🔗](https://github.com/imran-parray/Mind-Maps/blob/master/Oauth2%20Pentest%20Checklist%20-%20BinaryBrotherh1/oauth.png) | **🔴** | The following checklist represents a simplified visual alternative to IETF OAuth 2.0 Security Best Current Practice publication combined with various other public resources we found usefull.| [Binary Brotherhood](https://twitter.com/BinaryBrotherh1) |
+|Bug Bounty Platforms  |[🔗](https://www.mindmeister.com/1578309575/bug-bounty-platforms)| 🔴 | list of bug bounty platform available  | [fujie gu](https://www.mindmeister.com/users/channel/51127258)  |
+|Web App Pentest|[🔗](https://www.mindmeister.com/1748098748/web-app-pentest?fullscreen=1)|🔴|Web application Pentest Mindmap|[Ding Jayway](https://www.mindmeister.com/users/channel/60235712)|
+|Web App Pentest|[🔗](https://www.mindmeister.com/1470766611/web-app-pentest?fullscreen=1)|🔴|This mind-map has the list of bugs and the corresponding tools and techniques used to find those bugs|[Ninad Mathpati](https://www.mindmeister.com/users/channel/45787993)|
+|Mobile Security Mindmap|[🔗](https://raw.githubusercontent.com/imran-parray/Mind-Maps/master/Mobile%20App%20Security%20-%20Aman%20Hardikar/map.png)|🔴|a comprehensive Mind-map which includes various techniques to test Mobile Application for security issues|[Aman Hardikar](https://twitter.com/AmanHardikar)|
+|Web Security Field Mindmap|[🔗](https://www.mindmeister.com/1746180947/web-vulnerability-by-joas-antonio?fullscreen=1)|🔴🔵|This mindmap is an combination of Web Attacks, AppSec and Bug Bounty stuff|[jois](https://www.mindmeister.com/users/channel/36439824)|
+|Security Consulting & Implementation|[🔗](https://www.mindmeister.com/988579189/security-consulting-implementation?fullscreen=1)|🔵|Security Consulting & Implementation mindmap|[Lawrence Pingree](https://www.mindmeister.com/users/channel/1154930)|
+|Information Security Technologies & Markets|[🔗](https://www.mindmeister.com/783360255/information-security-technologies-markets-by-lawrence-pingree?fullscreen=1)|🔴🔵|This Mindmap is an combination of Information Security Technologies & Markets|[ovens ffdf](https://www.mindmeister.com/users/channel/16669742)|
+|Information Security Technologies & Markets|[🔗](https://www.mindmeister.com/333578609/information-security-technologies-markets)|🔴🔵|This mindmap contains different Information Security Technologies & Markets|[John Fortner](https://www.mindmeister.com/users/channel/4563052)|
+|Nmap Scans Mindmap|[🔗](https://github.com/imran-parray/Mind-Maps/blob/master/Nmap%20scans%20-%20OnlyHacker/mindmap.jpg)|🔴🔵|This mindmap show how different type of scans can be performed via Nmap Scanner|[Only Hacker](https://onlyhacker.com)|
+|Cross Site Request Frogery Mindmap|[🔗](https://raw.githubusercontent.com/imran-parray/Mind-Maps/master/XSRF%20-%20Trust%20Foundry/CSRF-CheatSheet-v2.3.1.png)|🔴🔵|This mindmap show how different type of security tests can be performed while testing CSRF|[alexlauerman](https://twitter.com/alexlauerman)|
+
+
 
 ---
 
-Special Thanks to all the authors for publish these mindmaps 🥳🥳🥳
+Special Thanks to all the authors for publishing these mindmaps 🥳🥳🥳
