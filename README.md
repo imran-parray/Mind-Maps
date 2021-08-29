@@ -32,6 +32,7 @@
 |Information Security Technologies & Markets|[🔗](https://www.mindmeister.com/333578609/information-security-technologies-markets)|🔴🔵|This mindmap contains different Information Security Technologies & Markets|[John Fortner](https://www.mindmeister.com/users/channel/4563052)|
 |Nmap Scans Mindmap|[🔗](https://github.com/imran-parray/Mind-Maps/blob/master/Nmap%20scans%20-%20OnlyHacker/mindmap.jpg)|🔴🔵|This mindmap show how different type of scans can be performed via Nmap Scanner|[Only Hacker](https://onlyhacker.com)|
 |Cross Site Request Frogery Mindmap|[🔗](https://raw.githubusercontent.com/imran-parray/Mind-Maps/master/XSRF%20-%20Trust%20Foundry/CSRF-CheatSheet-v2.3.1.png)|🔴🔵|This mindmap show how different type of security tests can be performed while testing CSRF|[alexlauerman](https://twitter.com/alexlauerman)|
+|Testing Grafana Mindmap|[🔗](https://raw.githubusercontent.com/imran-parray/Mind-Maps/master/Testing%20Grafana%20-%20daffainfo/Exploiting%20Grafana.png)|🔴|A mindmap explaining some common bug in grafana and how to exploit it|[daffainfo](https://github.com/daffainfo)|
 
 
 
