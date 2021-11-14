@@ -37,8 +37,7 @@
 | Common Vulnerabilites on Forgot Password Functionality | [🔗](https://github.com/imran-parray/Mind-Maps/blob/master/Common%20Vulnerabilites%20on%20Forgot%20Password%20Functionality%20-%20%20Harsh%20Bothra/Common%20Vulnerabilities%20on%20Forget%20Password%20Functionality.pdf) | **🔴**  | List of Test cases that can be perform on an Forgot password functionalities within the web apps| [Harsh Bothra](https://twitter.com/harshbothra_)  |
 | Common XML Attacks  | [🔗](https://github.com/imran-parray/Mind-Maps/blob/master/Common%20XML%20Attacks%20-%20Harsh%20Bothra/XML%20Attacks%20New.pdf) | **🔴**  | In this Mindmap Harsh Bothra Tired to list all the attacks that can be performed on an XML endpoints/services   | [Harsh Bothra](https://twitter.com/harshbothra_)  |
 | Copy of Vulnerability Checklist for SAML  | [🔗](https://github.com/imran-parray/Mind-Maps/blob/master/2FA%20Bypass%20Techniques%20-%20Harsh%20Bothra/2FA%20Bypass%20Techniques.png) | **🔴**  | List of all the Vulnerability that can be tested on SAML Endpoints/Services    | [Harsh Bothra](https://twitter.com/harshbothra_)  |
-
-
+| Exploting Grafana  | [🔗](https://github.com/imran-parray/Mind-Maps/blob/master/Exploting%20Grafana%20-%20daffainfo/grafana.png) | **🔴**  | Possible test cases to Exploit Publicly Avilable Grafa Instance    | [Muhammad Daffa](https://twitter.com/daffainfo)  |
 
 ---
 
