@@ -41,6 +41,7 @@
 | FILE READ vulnerabilities  | [🔗](https://raw.githubusercontent.com/imran-parray/Mind-Maps/master/File%20Read%20Vulnerabilites%20-%20Lukasz%20Miku%C5%82a/FRV.jpeg) | **🔴**  | Practical strategies for exploiting FILE READ vulnerabilities | [Lukasz Mikuła](https://twitter.com/0xluk3)  |
 |The Cyber Guy - Recon|[🔗](https://raw.githubusercontent.com/imran-parray/Mind-Maps/master/The%20Cyber%20Guy%20-%20Recon%20Mindmap/theCyberGuy_Recon_V1.0.png)|🔴|in this mindmap the CyberGuy shares his Recon Methodology|[theCyberGuy0](https://twitter.com/theCyberGuy0)|
 |Penetration Testing Certifications|[🔗](https://github.com/imran-parray/Mind-Maps/blob/master/Penetration%20Testing%20Certification%20-%20Tahar/mindmap.jpeg)|🔴🔵|in this mindmap Tahar Tries to uncover the list of Certification in the field of Penetration testing|[MrTaharAmine](https://twitter.com/MrTaharAmine)|
+|Linux Privilege Escalation |[🔗](https://github.com/imran-parray/Mind-Maps/blob/master/Linux%20Privilege%20Escalation%20-%20Mindmap/Linux_Previlege_Escalation.png)|🔴�|this mindmap shows several linux privilege escalation Techniques|[Source](https://twitter.com/hackinarticles/status/1464075216993206274?s=28)|
 
 ---
 
