@@ -39,7 +39,7 @@
 | Copy of Vulnerability Checklist for SAML  | [🔗](https://github.com/imran-parray/Mind-Maps/blob/master/2FA%20Bypass%20Techniques%20-%20Harsh%20Bothra/2FA%20Bypass%20Techniques.png) | **🔴**  | List of all the Vulnerability that can be tested on SAML Endpoints/Services    | [Harsh Bothra](https://twitter.com/harshbothra_)  |
 | Exploting Grafana  | [🔗](https://github.com/imran-parray/Mind-Maps/blob/master/Exploting%20Grafana%20-%20daffainfo/grafana.png) | **🔴**  | Possible test cases to Exploit Publicly Avilable Grafa Instance    | [Muhammad Daffa](https://twitter.com/daffainfo)  |
 | FILE READ vulnerabilities  | [🔗](https://raw.githubusercontent.com/imran-parray/Mind-Maps/master/File%20Read%20Vulnerabilites%20-%20Lukasz%20Miku%C5%82a/FRV.jpeg) | **🔴**  | Practical strategies for exploiting FILE READ vulnerabilities | [Lukasz Mikuła](https://twitter.com/0xluk3)  |
-|The Cyber Guy - Recon|[🔗](https://raw.githubusercontent.com/imran-parray/Mind-Maps/master/The%20Cyber%20Guy%20-%20Recon%20Mindmap/theCyberGuy_Recon_V1.0.png)|🔴||in this mindmap the CyberGuy shares his Recon Methodology|[theCyberGuy0](https://twitter.com/theCyberGuy0)|
+|The Cyber Guy - Recon|[🔗](https://raw.githubusercontent.com/imran-parray/Mind-Maps/master/The%20Cyber%20Guy%20-%20Recon%20Mindmap/theCyberGuy_Recon_V1.0.png)|🔴|in this mindmap the CyberGuy shares his Recon Methodology|[theCyberGuy0](https://twitter.com/theCyberGuy0)|
 
 
 ---
